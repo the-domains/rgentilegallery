@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.5574468
 color:
   saturation: 0.09936521
-  brandStrength: 0.727203
-  rhythmicContrast: 0.9950004
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+  brandStrength: 0.8042553
   lightness: 0.02495512
-typography_spectrum: 0.4021277
+  brandColors:
+    - '#FFFFFF'
+    - '#010101'
+    - '#7E7E7E'
+    - '#BFBFBF'
+    - '#444444'
+  rhythmicContrast: 0.9950004
 layout_spectrum: 0.9085106
 name: RGentileGallery
